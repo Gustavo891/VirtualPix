@@ -1,0 +1,7 @@
+# Configurações do Mercado Pago
+mercado_pago:
+  access_token: ""
+
+# Configurações do MongoDB
+mongodb:
+  connection_string: "mongodb://localhost:27017"
